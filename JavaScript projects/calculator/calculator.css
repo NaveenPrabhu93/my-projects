@@ -1,0 +1,24 @@
+.c{
+    border-style: groove;
+    height: 400px;
+    width: 296px;
+    border-radius: 20px;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    height: 70px;
+    width: 70px;
+    border-radius: 30px;
+}
+input{
+    height: 50px;
+    width: 285px;
+    border-radius: 5px;  
+}
+button:hover{
+    background-color: rgb(247, 199, 109);
+}
